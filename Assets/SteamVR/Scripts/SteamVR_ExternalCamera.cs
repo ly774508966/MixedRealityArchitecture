@@ -176,8 +176,8 @@ public class SteamVR_ExternalCamera : MonoBehaviour
 
 	public void RenderNear()
 	{
-		var w = Screen.width / 2;
-		var h = Screen.height / 2;
+		var w = Screen.width;
+		var h = Screen.height;
 
 		if (cam.targetTexture == null || cam.targetTexture.width != w || cam.targetTexture.height != h)
 		{
