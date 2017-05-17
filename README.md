@@ -4,3 +4,6 @@ Unity 5.4+, Steam VR with Vive Headsets + 3 remotes (2 for player, 1 for externa
 3D House model shared from FORGE team
 
 More information on http://aechackathon.com/munich/ and https://wiki.munichmakerlab.de/wiki/Hackathons
+
+
+Virtual reality project winner on the AEC Hackathon @ TUM (2017)
